@@ -12,8 +12,8 @@ resulting E-DensNet model.
 
 Image processing includes:
 
-Median Filter
-Histogram Equalization 
+Median Filter,
+Histogram Equalization ,
 Resize to standard size 256*256*3
 
 
